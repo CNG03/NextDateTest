@@ -5,3 +5,8 @@
 ##### Về chương trình test: 
 - Đầu tiên, thưc hiện test kiểm tra xem phương thức isValidDate() có hoạt động có chính xác hay không.
 - Cuối cùng là test kiểm tra phương thức calculateNextDate() theo kiểm thử lớp tương đương.
+##### Kết quả chạy test với Coverage:
+- Tất cả các code đã được chạy qua 100%.
+- Vượt qua tất cả 36/36 test.
+###### Ảnh chạy coverage.
+![Tên ảnh](/img/coverage.JPG)
